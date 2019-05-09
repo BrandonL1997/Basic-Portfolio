@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["6G9QP"]); }
+
+__d("StoriesViewerSheetInsightsNullState.react",["ix","fbt","React","TetraIcon.react","fbicon","stylex"],(function(a,b,c,d,e,f,g,h){"use strict";function a(){return b("React").createElement("div",{className:"jsr12b9d cbu4d94t j83agx80 bp9cbjyn"},b("React").createElement("i",{className:"rwvkw9s7 a8c37x1j"},b("React").createElement(b("TetraIcon.react"),{color:"secondary",icon:b("fbicon")._(g("491229"),24)})),b("React").createElement("p",{className:"f07s5no6 g1cxx5fr n3ffmt46 jq4qci2q ly258dph bp9cbjyn"},h._("No Views Yet")),b("React").createElement("p",{className:"oqcyycmt pxw14hjy"},h._("When people view your story, the viewer count will show up here.")))}e.exports=a}),null);

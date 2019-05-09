@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["Ps7\/N"]); }
+
+__d("ClickChevronDismissNux",["AsyncRequest","Event","XBasicFBNuxDismissController"],(function(a,b,c,d,e,f){"use strict";a={init:function(a,c,d){b("Event").listen(c,"click",function(){var c=b("XBasicFBNuxDismissController").getURIBuilder().setInt("nux_id",d).getURI();new(b("AsyncRequest"))().setURI(c).send();a.hide()})}};e.exports=a}),null);
